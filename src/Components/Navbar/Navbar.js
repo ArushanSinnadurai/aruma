@@ -28,7 +28,7 @@ class CustomNavbar extends React.Component {
             >
               <Nav.Link href="/home">HOME</Nav.Link>
               <Nav.Link href="/about">ABOUT US</Nav.Link>
-              <Nav.Link href="/contact">BLOGS</Nav.Link>
+              <Nav.Link href="/blogs">BLOGS</Nav.Link>
               <Nav.Link href="/contact">CONTACT INFO</Nav.Link>
             </Nav>
             <Form className="d-flex">
