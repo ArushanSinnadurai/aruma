@@ -1,0 +1,9 @@
+
+div {
+    border: 1px solid #000000; /* Add borders for better visualization */
+}
+.wrapper {
+    display: 100vh;
+    flex-direction: column;
+    display: flex;
+}
